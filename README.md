@@ -1,5 +1,3 @@
-# Training-Project-HowToGraphql
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E06F26&size=24&center=true&lines=Welcome+in+my+ReadMe)](https://git.io/typing-svg)
 
 # Getting Started with Create React App
