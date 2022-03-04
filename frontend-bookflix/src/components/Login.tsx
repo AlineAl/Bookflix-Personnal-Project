@@ -62,10 +62,6 @@ const Login = () => {
     }
   });
 
-  const isLogin = () => {
-    return formState.login ? login : signup
-  }
-
   return (
     <div>
       <h4 className="mv3">
@@ -111,7 +107,7 @@ const Login = () => {
       <div className="flex mt3">
         <button
           className="pointer mr2 button"
-          onClick={isLogin}
+          onClick={formState.login ? login as any : signup as any}
         >
           {formState.login ? 'login' : 'create account'}
         </button>

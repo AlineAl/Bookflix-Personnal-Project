@@ -3,6 +3,7 @@ import CreateLink from './createLink';
 import LinkList from './LinkList';
 import Header from './Header';
 import Login from './Login';
+import Search from './Search';
 import { Route, Routes } from 'react-router-dom';
 
 class App extends Component {
@@ -14,6 +15,7 @@ class App extends Component {
                   <Route path='/' element={<LinkList />}></Route>
                   <Route path='/create' element={<CreateLink />}></Route>
                   <Route path='/login' element={<Login />}></Route>
+                  <Route path='/search' element={<Search />}></Route>
               </Routes>
             </div>
      </div>
