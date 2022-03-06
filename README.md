@@ -10,11 +10,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 💾 Step by step
 
-This project is an initialization project to Prisma, ApolloClient, GraphQL, Typescript and React. It's mostly about being able to understand how these tools work with each other, with more training on the front end.
+This project is an initialization project to Prisma, ApolloClient, GraphQL, Typescript and React. It's mostly about being able to understand how these tools work with each other, with more training on the front end. Thanks to the tutorial, I was able to understand the features that it is possible to set up and the logic that allows it. It allowed me a first contact with the front using techno like ApolloClient, React and GraphQL
 
 ## 🔌 Points to improve
 
-☐ 
+☐ Implementation of subscription and pagination features in real project
+☐ Setting up the same job with a other database (PostgreSQL)
+☐ Create the backend part and manipulate it on the front side to better understand the link between the different technologies
 
 ## 🧬 My references
 
@@ -22,4 +24,10 @@ https://www.udemy.com/course/graphql-bootcamp/
 
 https://www.howtographql.com/react-apollo/0-introduction/
 
+https://www.prisma.io/
+
 ## To access this project
+
+1. To make the front-end work, clone the Github repo.
+2. Run yarn install in backend folder and frontend folder
+3. Run yarn dev in backend folder and yarn start in frontend folder
