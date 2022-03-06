@@ -15,7 +15,9 @@ This project is an initialization project to Prisma, ApolloClient, GraphQL, Type
 ## 🔌 Points to improve
 
 ☐ Implementation of subscription and pagination features in real project
+
 ☐ Setting up the same job with a other database (PostgreSQL)
+
 ☐ Create the backend part and manipulate it on the front side to better understand the link between the different technologies
 
 ## 🧬 My references
